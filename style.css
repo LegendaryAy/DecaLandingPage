@@ -734,6 +734,20 @@ form{
 .flex{
     display: block;
 }
-    
+.copy{
+    margin:20px 0px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.copy p {
+    text-align: center;
+}
+.social-links   {
+    margin: 10px auto;
+    width: 40%;
+}
+.social-links a{
+    margin-left: 10px;
+}
 }
 
